@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Este notebook é um protótipo funcional que demonstra o conceito de uma solução "Know Your Fan" (KYF) focada em fãs de e-sports. O objetivo é mostrar o fluxo de coleta de dados, armazenamento e a *simulação conceitual* de processos de validação que poderiam ser usados para entender melhor e engajar os fãs, inspirado por estratégias de organizações como a FURIA.
+Este notebook é um protótipo funcional que demonstra o conceito de uma solução "Know Your Fan" (KYF) focada em fãs de e-sports. O objetivo é mostrar o fluxo de coleta de dados, armazenamento e a *simulação conceitual* de processos de validação que poderiam ser usados para entender melhor e engajar os fãs.
 
 ## Tecnologias Utilizadas
 
