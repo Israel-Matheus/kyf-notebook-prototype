@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+# SQLite Database Files
+*.db
+*.db-journal
+
+# OS generated files
+.DS_Store
+Thumbs.db
