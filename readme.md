@@ -32,7 +32,7 @@ Este notebook é um protótipo funcional que demonstra o conceito de uma soluç�
 * **Célula 7:** Simulação e Conceito - Vínculo Social.
 * **Célula 8:** Simulação e Conceito - Vínculo Perfis E-sports.
 
-  ![Formulário de Coleta de Dados](imgs/coleta_de)dados.jpg)  * **Célula 6:** Visualização de Resumo de Todos os Fãs.
+  ![Formulário de Coleta de Dados](imgs/coleta_de_dados.jpg)  * **Célula 6:** Visualização de Resumo de Todos os Fãs.
   *Exemplo:*
   ![Tabela Resumo dos Fãs](imgs/visualizar_fãs.jpg) * **Célula 7:** Simulação e Conceito - Vínculo Social.
   *Exemplo de Saída:*
