@@ -32,14 +32,21 @@ Este notebook é um protótipo funcional que demonstra o conceito de uma soluç�
 * **Célula 7:** Simulação e Conceito - Vínculo Social.
 * **Célula 8:** Simulação e Conceito - Vínculo Perfis E-sports.
 
-  ![Formulário de Coleta de Dados](imgs/coleta_de_dados.jpg)  * **Célula 6:** Visualização de Resumo de Todos os Fãs.
+   **Célula 5:** Coleta Interativa de Dados de um Novo Fã (usando `ipywidgets`).
+  *Interface:*
+  ![Formulário de Coleta de Dados](imgs/coleta_de_dados.jpg)  *
+  **Célula 6:** Visualização de Resumo de Todos os Fãs.
   *Exemplo:*
-  ![Tabela Resumo dos Fãs](imgs/visualizar_fãs.jpg) * **Célula 7:** Simulação e Conceito - Vínculo Social.
+  ![Tabela Resumo dos Fãs](imgs/visualizar_fãs.jpg) *
+  **Célula 7:** Simulação e Conceito - Vínculo Social.
   *Exemplo de Saída:*
-  ![Resultado da Simulação Social](imgs/vinculo_com_redes_sociais.jpg) * **Célula 8:** Simulação e Conceito - Vínculo Perfis E-sports.
+  ![Resultado da Simulação Social](imgs/vinculo_com_redes_sociais.jpg) *
+  **Célula 8:** Simulação e Conceito - Vínculo Perfis E-sports.
   *Exemplo de Saída:*
-  ![Resultado da Simulação E-sports](imgs/vinculo_com_perfil_de_esports.jpg) * **Célula 9:** Visualizar Perfil Completo de um Fã.
+  ![Resultado da Simulação E-sports](imgs/vinculo_com_perfil_de_esports.jpg) *
+  **Célula 9:** Visualizar Perfil Completo de um Fã.
   *Exemplo de Saída:*
+  ![Visualização do Perfil Completo](imgs/visualizar_perfil.jpg)
 
 ## Funcional vs. Simulado
 
