@@ -35,13 +35,13 @@ Este notebook é um protótipo funcional que demonstra o conceito de uma soluç�
   **Células 1-3:** Configuração Inicial (Imports, DB Init, Funções Auxiliares).
   **Célula 5:** Coleta Interativa de Dados de um Novo Fã (usando `ipywidgets`).
   *Interface:*
-  ![Formulário de Coleta de Dados](imgs/coletadedados.jpg)  * **Célula 6:** Visualização de Resumo de Todos os Fãs.
+  ![Formulário de Coleta de Dados](imgs/coleta_de)dados.jpg)  * **Célula 6:** Visualização de Resumo de Todos os Fãs.
   *Exemplo:*
-  ![Tabela Resumo dos Fãs](imgs/visualizarfãs.jpg) * **Célula 7:** Simulação e Conceito - Vínculo Social.
+  ![Tabela Resumo dos Fãs](imgs/visualizar_fãs.jpg) * **Célula 7:** Simulação e Conceito - Vínculo Social.
   *Exemplo de Saída:*
-  ![Resultado da Simulação Social](imgs/vinculocomredessociais.jpg) * **Célula 8:** Simulação e Conceito - Vínculo Perfis E-sports.
+  ![Resultado da Simulação Social](imgs/vinculo_com_redes_sociais.jpg) * **Célula 8:** Simulação e Conceito - Vínculo Perfis E-sports.
   *Exemplo de Saída:*
-  ![Resultado da Simulação E-sports](imgs/vinculocomperfildeesports.jpg) * **Célula 9:** Visualizar Perfil Completo de um Fã.
+  ![Resultado da Simulação E-sports](imgs/vinculo_com_perfil_de_esports.jpg) * **Célula 9:** Visualizar Perfil Completo de um Fã.
   *Exemplo de Saída:*
 
 ## Funcional vs. Simulado
