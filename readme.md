@@ -32,9 +32,6 @@ Este notebook é um protótipo funcional que demonstra o conceito de uma soluç�
 * **Célula 7:** Simulação e Conceito - Vínculo Social.
 * **Célula 8:** Simulação e Conceito - Vínculo Perfis E-sports.
 
-  **Células 1-3:** Configuração Inicial (Imports, DB Init, Funções Auxiliares).
-  **Célula 5:** Coleta Interativa de Dados de um Novo Fã (usando `ipywidgets`).
-  *Interface:*
   ![Formulário de Coleta de Dados](imgs/coleta_de)dados.jpg)  * **Célula 6:** Visualização de Resumo de Todos os Fãs.
   *Exemplo:*
   ![Tabela Resumo dos Fãs](imgs/visualizar_fãs.jpg) * **Célula 7:** Simulação e Conceito - Vínculo Social.
